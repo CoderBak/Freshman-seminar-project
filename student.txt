@@ -1,0 +1,3 @@
+{'name': 'Alan', 'id': '2023200001', 'timetable': [['Mon', 12, 4], ['Thur', 14.5, 2]], 'lecture': ['Art', 'Maths']}
+{'name': 'Eric', 'id': '2023200003', 'timetable': [['Thur', 12, 6]], 'lecture': ['Biology', 'Data Science']}
+{'name': 'John', 'id': '2023200005', 'timetable': [['Tues', 10.5, 1.5], ['Wed', 14.5, 5]], 'lecture': ['Art', 'Biology']}

@@ -1,0 +1,5 @@
+{'name': 'Art', 'length': 1.5, 'time': ['Mon', 12.5], 'allowed_cnt': 3}
+{'name': 'Maths', 'length': 2, 'time': ['Sat', 10], 'allowed_cnt': 5}
+{'name': 'Biology', 'length': 1.5, 'time': ['Wed', 16.5], 'allowed_cnt': 10}
+{'name': 'Data Science', 'length': 2.5, 'time': ['Thur', 14], 'allowed_cnt': 2}
+{'name': 'Law', 'length': 1.5, 'time': ['Sun', 14], 'allowed_cnt': 9}
